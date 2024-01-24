@@ -1,5 +1,5 @@
 # trying git
 
-Trying things in already commited file
+Trying things in an already committed file
 
-Trying changes in already commited file - Part 2
+Trying changes in already committed file - Part 2
